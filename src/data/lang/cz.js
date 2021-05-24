@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react'
 import rpg from '../../img/projects/rpg.jpg'
-import progress_tracker from '../../img/projects/progress_tracker.jpg'
+// import progress_tracker from '../../img/projects/progress_tracker.jpg'
 import zan from '../../img/projects/ZaN.jpg'
 import todo from '../../img/projects/todo_app.jpg'
 import portfolio from '../../img/projects/portfolio.jpg'
