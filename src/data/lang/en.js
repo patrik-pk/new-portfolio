@@ -82,27 +82,27 @@ const en = {
                     }
                 ]
             },
-            {
-                imgSrc: progress_tracker,
-                heading: 'Progress Tracker',
-                madeIn: '12/2020 - now',
-                technologies: 'MERN stack, Redux, Styled Components',
-                description: (
-                    <Fragment>
-                        <p>
-                            Fullstack web application for recording progress. Backend is built on
-                            Express.js and MongoDB. React with Redux is used on the frontend along with
-                            Styled Components.
-                        </p>
-                    </Fragment>
-                ),
-                links: [
-                    {
-                        linkTo: 'https://github.com/patrik-pk/progress-tracker',
-                        text: 'View Code'
-                    }
-                ]
-            },
+            // {
+            //     imgSrc: progress_tracker,
+            //     heading: 'Progress Tracker',
+            //     madeIn: '12/2020 - now',
+            //     technologies: 'MERN stack, Redux, Styled Components',
+            //     description: (
+            //         <Fragment>
+            //             <p>
+            //                 Fullstack web application for recording progress. Backend is built on
+            //                 Express.js and MongoDB. React with Redux is used on the frontend along with
+            //                 Styled Components.
+            //             </p>
+            //         </Fragment>
+            //     ),
+            //     links: [
+            //         {
+            //             linkTo: 'https://github.com/patrik-pk/progress-tracker',
+            //             text: 'View Code'
+            //         }
+            //     ]
+            // },
             {
                 imgSrc: zan,
                 heading: 'Ženich & Nevěsta',

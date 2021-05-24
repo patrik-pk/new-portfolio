@@ -80,27 +80,27 @@ const cz = {
                     }
                 ]
             },
-            {
-                imgSrc: progress_tracker,
-                heading: 'Progress Tracker',
-                madeIn: '12/2020 - současnost',
-                technologies: 'MERN stack, Redux, Styled Components',
-                description: (
-                    <Fragment>
-                        <p>
-                            Fullstack webová aplikace pro zaznamenávání progressu. Backend běží v
-                            Expressu a MongoDB, na frontendu je použit React s Reduxem a Styled Components
-                            pro stylování komponentů.
-                        </p>
-                    </Fragment>
-                ),
-                links: [
-                    {
-                        linkTo: 'https://github.com/patrik-pk/progress-tracker',
-                        text: 'Zobrazit Kód'
-                    }
-                ]
-            },
+            // {
+            //     imgSrc: progress_tracker,
+            //     heading: 'Progress Tracker',
+            //     madeIn: '12/2020 - současnost',
+            //     technologies: 'MERN stack, Redux, Styled Components',
+            //     description: (
+            //         <Fragment>
+            //             <p>
+            //                 Fullstack webová aplikace pro zaznamenávání progressu. Backend běží v
+            //                 Expressu a MongoDB, na frontendu je použit React s Reduxem a Styled Components
+            //                 pro stylování komponentů.
+            //             </p>
+            //         </Fragment>
+            //     ),
+            //     links: [
+            //         {
+            //             linkTo: 'https://github.com/patrik-pk/progress-tracker',
+            //             text: 'Zobrazit Kód'
+            //         }
+            //     ]
+            // },
             {
                 imgSrc: zan,
                 heading: 'Ženich & Nevěsta',
